@@ -6,7 +6,8 @@
 #### 要するに、使えるのはレベル1、レベル2のみで、レベル3は使用不能。
 
 
-#### pip install p5
+#### Procossingのモジュールp5のインストール
+```pip install p5```
 
 ### 作者によるYouTube動画がある。
 ### 以下、オリジナルのREADME.md
